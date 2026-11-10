@@ -348,5 +348,3 @@ The cloud deployment will be implemented after validating the local ETL pipeline
 - LinkedIn: [Muktesh Bodkhe](https://www.linkedin.com/in/muktesh-bodkhe-9335a8285/)
 
 ---
-
-*This project is developed for educational and portfolio purposes using the publicly available Olist Brazilian E-Commerce dataset.*
